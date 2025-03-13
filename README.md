@@ -1,5 +1,5 @@
 # HealthChecker
-Comprehensive monitoring of HDD, CPU, RAM, and network with recommendations and notifications.
+Comprehensive monitoring of HDD, CPU, RAM, and network on Debian-based systems, with recommendations and notifications.
 
 ## Overview
 HealthChecker is a lightweight and flexible Bash script designed to monitor system health metrics (disk usage, CPU usage, memory usage, network traffic, and internet speed) on Debian-based systems. It sends alerts to Telegram if any metric exceeds a predefined threshold.
